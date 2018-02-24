@@ -1,0 +1,40 @@
+#topSection{
+   
+    height: 10vh;
+    width: 100%;
+    background-color: rgba(255,0,0,0.01);
+}
+.topTitle{
+    padding:20px;
+   
+}
+
+#navigation{
+   
+    width: 100%;
+    background-color: rgba(1,1,1, 0.5);
+}
+
+#navigation div{
+    color:white;   
+    background-color: rgba(1,1,1, 0.5);
+}
+.navbar{
+    margin-bottom: 0px;
+}
+#carasouelArea .panelbody{   
+ background-color:rgba(0, 0, 255, 0.01); 
+ padding:5px; 
+  
+}
+#contentArea{
+    background-color: rgba(1,1,1, 0.5);
+}
+#advertiseArea{
+    background-color: rgba(1,1,1, 0.3);
+}
+.panel-body{
+    padding-top:1px;
+    padding-bottom:1px;
+}
+
